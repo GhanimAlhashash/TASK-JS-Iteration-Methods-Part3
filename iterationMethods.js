@@ -33,7 +33,6 @@ function labelTemperatures(temps) {
     }
   });
 }
-
 // Write a `getMaxTemperature` function that calculates and return the highest temperature of the month.
 function getMaxTemperature(temps) {
   return Math.max(...temps);
