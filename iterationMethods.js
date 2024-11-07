@@ -8,7 +8,7 @@ function filterHighTemperatures(temps) {
   return temperatures.filter((temp) => temp >= 25);
 }
 //hi
-// Write a `filterLowTemperatures` function that returns a new array containing temperatures less than 20 degrees Celsius.
+// Write a `filterLowTemperatures` function that returns a new array containing temperatures less than 20 degrees Celsius. hi
 function filterLowTemperatures(temps) {
   return temperatures.filter((temp) => temp < 20);
 }
